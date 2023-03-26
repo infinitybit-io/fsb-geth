@@ -1,6 +1,6 @@
 sudo apt install make snap
 sudo snap install go --classic
-git clone https://github.com/infinitybit-io/geth
+git clone https://github.com/infinitybit-io/fsb-geth
 cd ./geth
 make geth
 mv ./build/bin/geth /usr/bin/geth
