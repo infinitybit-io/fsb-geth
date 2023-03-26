@@ -1,10 +1,10 @@
-# InfinityBit GETH for FSB
+# <img src="https://infinitybit.io/ibit-100x100.png" width="100" height="100"/> InfinityBit FSB-Geth
 
 [![API Reference](
 https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
 )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc)
 
-Forked from https://github.com/ethereum/go-ethereum
+InfinityBit Geth-FSB is a Ethereum-based distributed ledger protocol forked from geth
 
 ## Building the source
 
